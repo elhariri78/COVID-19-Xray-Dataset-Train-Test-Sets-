@@ -31,6 +31,7 @@ COVID19_Xray_Dataset/
 
 
 
+[COVID-19 X-ray Dataset: Train & Test Sets]([https://github.com/elhariri78/COVID-19-Xray-Dataset-Train-Test-Sets](https://www.kaggle.com/code/elmuatazelhariri/covid-19-xray-dataset-train-test-sets)
 
 
 
